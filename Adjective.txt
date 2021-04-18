@@ -26,7 +26,7 @@ bright		tối_tăm			A	0.3
 busy		bận_rộn			A	9.4
 busy		tấp_lập			A	8.5
 busy		thảnh_thơi		A	1.2
-clean		sạch_sẽ			A	8.99
+clean		sạch_sẽ			A	8.9
 clean		gọn_gằng		A	8.1
 clean		bừa_bộn			A	0.9
 certain		chắc_chắn		A	9.4
