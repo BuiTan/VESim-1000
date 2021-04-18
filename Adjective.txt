@@ -293,8 +293,8 @@ enough		đủ				A	8.9
 enough		thiếu			A	1.9
 distinct	riêng_biệt		A	8.6
 distinct	tương_tự		A	3.6
-fair		thẳng_thắn		A	7.8
-fair		thiên_vị		A	2.7		
+straight		thẳng		A	8.8
+straight		thẳng_thắn		A	8.7		
 rare		hiếm			A 	9.1
 single		đơn_độc			A	8.7
 terrible	kinh_khủng		A	9.0
