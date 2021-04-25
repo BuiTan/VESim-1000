@@ -7,9 +7,9 @@ car		ô_tô			N	9.3
 car		con_đường		N	0.7
 glass		chiếc_gương		N	7.5
 glass		kính			N	9.0
-glass		cái_cốc		N	5.3
-cushion		cái_gối		N	6.0
-cushion		cái_đệm		N	9.1
+glass		cốc		N	8.3
+cushion		gối		N	6.0
+cushion		đệm		N	9.1
 cushion		kẹo_dẻo		N	1.5
 monk		nhà_sư			N	9.2
 monk		sư_thầy		N	6.5
